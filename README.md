@@ -1,8 +1,8 @@
 old-deer-park
 =============
 
-Showcase of code for my project for Old Deer Park in Richmond. This project demonstrates how I have used PHP to template 
-the website, while using dynamic Meta tags for Search Engine Optimisation.
+This project demonstrates how I have used PHP to template the website, while using dynamic Meta tags for 
+Search Engine Optimisation.
 
 [See files for comments]
 
